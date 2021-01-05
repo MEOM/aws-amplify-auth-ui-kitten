@@ -1,6 +1,6 @@
 # AWS-Amplify-Auth-UI-Kitten
 
-[UI Kitten](https://github.com/akveo/react-native-ui-kitten) implementation fro [AWS Amplify](https://github.com/aws-amplify/amplify-js) authentication UI.
+[UI Kitten](https://github.com/akveo/react-native-ui-kitten) implementation for [AWS Amplify](https://github.com/aws-amplify/amplify-js) authentication UI.
 
 [![NPM](https://nodei.co/npm/aws-amplify-auth-ui-kitten.png?compact=true)](https://nodei.co/npm/aws-amplify-auth-ui-kitten/)
 
