@@ -16,6 +16,9 @@
 ## How to use
 
 ```
+import * as eva from '@eva-design/eva';
+import { ApplicationProvider, IconRegistry } from '@ui-kitten/components';
+import { EvaIconsPack } from '@ui-kitten/eva-icons';
 import { SignIn, SignUp, ConfirmSignUp, ConfirmSignIn, ForgotPassword, RequireNewPassword } from 'aws-amplify-auth-ui-kitten';
 import { Authenticator } from 'aws-amplify-react-native';
 
